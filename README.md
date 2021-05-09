@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Snowballtheanvil
+- 👀 I’m interested in Minecraft Datapacks
+- 🌱 I’m currently learning more about them
