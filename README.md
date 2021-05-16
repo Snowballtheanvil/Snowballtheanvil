@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Snowballtheanvil
-- 👀 I’m interested in Minecraft Datapacks
-- 🌱 I’m currently learning more about them
+- 👀 I’m interested in the technical side of Minecraft
+- 🌱 I’m currently learning how to make mods
