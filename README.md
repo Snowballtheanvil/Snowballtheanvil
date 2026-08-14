@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Snowballtheanvil
-- 👀 I’m interested in the technical side of Minecraft
-- 🌱 I’m currently learning how to make mods
+- Hi, I’m @Snowballtheanvil
